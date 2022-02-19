@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  color: white;
+  font: 20px Arial, sans-serif;
+}
+
+body {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid white;
+  width: 600px;
+  height: 600px;
+  background-color: #333331;
+}
